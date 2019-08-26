@@ -31,3 +31,6 @@ cd NYU_FCRN-checkpoint
 ```
 ./rknn_test.py -i original.jpg -r NYU_FCRN-checkpoint/freeze_NYU_FCRN.rknn
 ```
+
+### Announcements
+1. rknn-toolkit require version 1.2.0 and above
